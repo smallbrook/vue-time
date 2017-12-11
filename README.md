@@ -4,6 +4,7 @@
 
 ![hello](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg)
 <div align=center>的点点滴滴</div>
+<center>123123</center>
 
 ## Build Setup
 
