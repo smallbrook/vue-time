@@ -1,5 +1,5 @@
 <div align=center>
-  ![vue logo](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/logo.png)
+  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/logo.png" alt="vue logo"/>
 </div>
 
 <div align=center>
@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-![hello](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg)
+  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg" alt="hello"/>
 </div>
 
 ## Build Setup
