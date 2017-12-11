@@ -1,6 +1,9 @@
 # vue-time
 
 > vue时间选择器
+![Image text](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/logo.png)
+![Image text](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg)
+![Image text](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%B0%8F%E5%B0%8F%E6%BA%AA.gif)
 
 ## Build Setup
 
