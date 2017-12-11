@@ -1,6 +1,6 @@
 # vue-time
 
-vue时间选择器
+> vue时间选择器
 
 ## Build Setup
 
