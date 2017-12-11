@@ -7,7 +7,13 @@
 </div>
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg" alt="hello"/>
+  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/hello.jpg" alt="hello"/>
+</div>
+
+## Demo
+
+<div align=center>
+  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/demo.jpg" alt="hello"/>
 </div>
 
 ## Build Setup
@@ -26,4 +32,4 @@ npm run build
 
 ## License
 
-![small brook](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%B0%8F%E5%B0%8F%E6%BA%AA.gif)
+![small brook](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/small_brook.gif)
