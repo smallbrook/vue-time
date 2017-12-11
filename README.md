@@ -1,10 +1,14 @@
-<center>![vue logo](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/logo.png)</center>
+<div align=center>
+  ![vue logo](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/logo.png)
+</div>
 
+<div align=center>
 # vue-time时间选择器
+</div>
 
+<div align=center>
 ![hello](https://raw.githubusercontent.com/smallbrook/vue-time/master/src/assets/%E5%A4%A7%E7%99%BD.jpg)
-<div align=center>的点点滴滴</div>
-<center>123123</center>
+</div>
 
 ## Build Setup
 
