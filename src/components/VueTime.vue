@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import Calendar from './calendar.vue'
+import Calendar from './calendar'
 
 export default {
   name: 'VueTime',
