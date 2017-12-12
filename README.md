@@ -13,7 +13,7 @@
 ## Demo
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/static/images/demo.jpg" alt="hello"/>
+  <img src="https://raw.githubusercontent.com/smallbrook/vue-time/master/static/images/demo.gif" alt="demo"/>
 </div>
 
 ## Build Setup
